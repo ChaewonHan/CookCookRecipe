@@ -109,6 +109,8 @@
 <br/>
 - [게시글 삭제 View](0_semiProject/WebContent/aBoard/aBoardDeleteForm.jsp)
 - [게시글 삭제 Controller](0_semiProject/src/com/recipe/aBoard/contraller/aBoardDeleteServlet.java)
+<br/>
+
 **게시판 검색**
 <br/>
 
