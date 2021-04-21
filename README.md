@@ -1,8 +1,7 @@
 # 🍳CookCook Recipe
 
----
+![Untitled](https://user-images.githubusercontent.com/75398832/115556780-fbc5f180-a2eb-11eb-9285-1a5ada8f5af6.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d169b77-1b6a-43b6-90cf-1b08e48179d3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d169b77-1b6a-43b6-90cf-1b08e48179d3/Untitled.png)
 
 ## 목차
 
@@ -49,8 +48,7 @@
 ---
 
 **회원가입 기능**
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c61734-4f07-42f6-90a9-874a489708b4/ezgif-3-12cde8da2b2b.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c61734-4f07-42f6-90a9-874a489708b4/ezgif-3-12cde8da2b2b.gif)
+![ezgif-3-12cde8da2b2b](https://user-images.githubusercontent.com/75398832/115556912-26b04580-a2ec-11eb-8bbb-71e83bb80e77.gif)
 
 **이메일 인증번호 전송**
 
