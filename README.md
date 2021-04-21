@@ -60,7 +60,7 @@
 ## 담당한 기능
 
 
-**회원가입 기능**
+### 회원가입 기능
 <br/>
 
 ![ezgif-3-12cde8da2b2b](https://user-images.githubusercontent.com/75398832/115556912-26b04580-a2ec-11eb-8bbb-71e83bb80e77.gif)
@@ -71,7 +71,7 @@
 
 
 
-**이메일 인증번호 전송**
+### 이메일 인증번호 전송
 <br/>
 
 ![ezgif-3-16500890328c](https://user-images.githubusercontent.com/75398832/115557402-a3dbba80-a2ec-11eb-8d0a-4f2c55b5e720.gif)
@@ -80,7 +80,7 @@
 - [이메일 인증번호 확인](0_semiProject/src/com/recipe/member/cotroller/MemberJoinEmailCheckNumServlet.java)
 <br/>
 
-**게시판 페이징 처리**
+### 게시판 페이징 처리
 <br/>
 
 ![ezgif-3-306c4d3aa6c3](https://user-images.githubusercontent.com/75398832/115557455-af2ee600-a2ec-11eb-8bad-8da93d2a3463.gif)
@@ -89,7 +89,7 @@
 - [페이지 목록 Controller](0_semiProject/src/com/recipe/aBoard/contraller/aBoardListServlet.java)
 <br/>
 
-**게시판 글 작성**
+### 게시판 글 작성
 <br/>
 
 ![ezgif-3-a8c19394c9f5](https://user-images.githubusercontent.com/75398832/115557520-bbb33e80-a2ec-11eb-8f70-4164514cd7e0.gif)
@@ -98,7 +98,7 @@
 - [글 작성 Controller](0_semiProject/src/com/recipe/aBoard/contraller/aBoardWriteServlet.java)
 <br/>
 
-**게시글 답글 작성**
+### 게시글 답글 작성
 <br/>
 
 ![ezgif-3-e49efa842237](https://user-images.githubusercontent.com/75398832/115557566-c8379700-a2ec-11eb-8fc2-712600f4e30a.gif)
@@ -107,7 +107,7 @@
 - [글의 그룹, 스텝, 레벨 넘기기](0_semiProject/src/com/recipe/aBoard/contraller/aBoardReWriteRef.java)
 - [답글 작성 Controller](0_semiProject/src/com/recipe/aBoard/contraller/aBoardReWriteServlet.java)
 <br/>
-**게시글 수정**
+### 게시글 수정
 <br/>
 
 ![ezgif-3-dfb9db1a26a0](https://user-images.githubusercontent.com/75398832/115557644-dd142a80-a2ec-11eb-9228-70bd91fee1fa.gif)
@@ -116,7 +116,7 @@
 - [게시글 수정 Controller](0_semiProject/src/com/recipe/aBoard/contraller/aBoardUpdateServlet.java)
 <br/>
 
-**게시글 삭제**
+### 게시글 삭제
 <br/>
 
 ![ezgif-3-0caccaee5e10](https://user-images.githubusercontent.com/75398832/115557665-e604fc00-a2ec-11eb-8802-87f35f791b64.gif)
@@ -125,7 +125,7 @@
 - [게시글 삭제 Controller](0_semiProject/src/com/recipe/aBoard/contraller/aBoardDeleteServlet.java)
 <br/>
 
-**게시판 검색**
+### 게시판 검색
 <br/>
 
 ![ezgif-3-5e3d060a6caa](https://user-images.githubusercontent.com/75398832/115557697-edc4a080-a2ec-11eb-80f4-b0df00680b53.gif)
