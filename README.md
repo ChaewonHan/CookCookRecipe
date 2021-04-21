@@ -4,7 +4,8 @@
 
 
 ## 목차
-
+1. [소개](#소개)
+2. 
 
 ## 소개
 
@@ -118,3 +119,12 @@
 <br/>
 - [게시판 검색 Controller](0_semiProject/src/com/recipe/aBoard/contraller/aBoardSearchServlet.java)
 <br/>
+
+### 담당 기능 DAO/VO/Service
+- [게시판 DAO](0_semiProject/src/com/recipe/aBoard/dao/aBoardDAO.java)
+- [게시판 VO](0_semiProject/src/com/recipe/aBoard/vo/aBoardVO.java)
+- [게시판 Service](0_semiProject/src/com/recipe/aBoard/service/aBoardService.java)
+- [회원 DAO](0_semiProject/src/com/recipe/member/dao/MemberDAO.java)
+- [회원 VO](0_semiProject/src/com/recipe/member/vo/MemberVO.java)
+- [회원 Service](0_semiProject/src/com/recipe/member/service/MemberService.java)
+
