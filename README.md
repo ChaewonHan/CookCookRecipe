@@ -74,7 +74,7 @@ Q&A 게시판의 경우에는 답글 기능을 구현하여 답글과 관련된 
 
 ![ezgif-3-16500890328c](https://user-images.githubusercontent.com/75398832/115557402-a3dbba80-a2ec-11eb-8d0a-4f2c55b5e720.gif)
 <br/>
-- [이메일 인증번호 전송](0_semiProject/src/com/recipe/member/cotroller/MemberEmailKeyConfirm.java)
+- [이메일 인증번호 전송](0_semiProject/src/com/recipe/member/cotroller/MemberFindPwEmail.java)
 - [이메일 인증번호 확인](0_semiProject/src/com/recipe/member/cotroller/MemberJoinEmailCheckNumServlet.java)
 <br/>
 
